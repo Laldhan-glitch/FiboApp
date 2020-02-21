@@ -1,2 +1,5 @@
 .idea
 fibonnaci.iml
+.classpath
+.project
+bin
